@@ -1,0 +1,42 @@
+body {
+
+    background-image: url(careem-ride.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    font-size: 20px; 
+    font-family: fantasy;
+    font-weight: bolder;
+
+}
+
+.div {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        color: aliceblue
+      }
+      
+      li {
+        font-size: large;
+      }
+      
+      li a {
+        display: ruby ;
+        padding: 8px;
+        text-align: start;
+        color: aliceblue
+        
+      }
+
+      p.round {
+        border: 2px solid rgb(229, 235, 231);
+        border-radius: 8px;
+        color: aliceblue
+      }
+
+.h1{
+    text-align: center
+}
