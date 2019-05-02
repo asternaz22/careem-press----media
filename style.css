@@ -23,7 +23,7 @@
       .li {
         display: ruby ;
         padding: 8px;
-        text-align: center;
+        text-align: start;
         color: aliceblue
         
       }
