@@ -1,4 +1,4 @@
-body {
+.bd {
 
     background-image: url(careem-ride.jpg);
     background-repeat: no-repeat;
@@ -19,14 +19,11 @@ body {
         color: aliceblue
       }
       
-      li {
-        font-size: large;
-      }
       
-      li a {
+      .li {
         display: ruby ;
         padding: 8px;
-        text-align: start;
+        text-align: center;
         color: aliceblue
         
       }
